@@ -18,4 +18,4 @@ usage: synthesiavideo2midi.py [-h] [-v] [-s] [--inspect frame [frame ...]]
 ```
 
 ## Contributing
-I am accepting pull requests.
+I am accepting pull requests. See [open issues](https://github.com/devbridie/synthesiavideo2midi/issues) and [pending pull requests](https://github.com/devbridie/synthesiavideo2midi/pulls).
