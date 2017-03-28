@@ -1,0 +1,3 @@
+numpy
+-e git://github.com/vishnubob/python-midi#egg=midi
+youtube-dl==2017.2.11
